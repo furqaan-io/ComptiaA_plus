@@ -1,1 +1,0 @@
-This is an intro file for CompTIA
